@@ -21,7 +21,7 @@
    
   <p><font face="times" size="10" color="blue">A força é definida como uma ação que modifica um corpo</font></p>
     
-    <h4>1ª Lei de Newton= Princípio da Inércia</h4>
+    <h3>1ª Lei de Newton= Princípio da Inércia</h3>
 
 </body>
 </html>
